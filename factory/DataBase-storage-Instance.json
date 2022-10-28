@@ -1,0 +1,9 @@
+{
+	"name": "DataBase-storage-Instance",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6a32b2c2-47f0-4b93-b74b-87fd83b5e3e6",
+		"tenantId": "c22f331c-919f-45ba-9c01-a12dc75b52a3"
+	}
+}
